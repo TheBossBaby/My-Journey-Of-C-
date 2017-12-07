@@ -1,0 +1,11 @@
+int double a= 0;
+	Invalid combination of specifier
+	'int' followed by 'double' is illegal
+
+int double a= 0;
+	Invalid combination of specifier
+	'int' followed by 'float' is illegal
+int string a = "????";
+	expected a ';'
+	missing ';' before identifier 'a'
+	a': undeclared identifier

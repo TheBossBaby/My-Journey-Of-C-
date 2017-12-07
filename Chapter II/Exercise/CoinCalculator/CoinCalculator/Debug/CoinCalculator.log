@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\my journey of c++\chapter 2\exercise\coincalculator\coincalculator\source.cpp(43): warning C4129: 'Y': unrecognized character escape sequence
+d:\my journey of c++\chapter 2\exercise\coincalculator\coincalculator\source.cpp(56): warning C4129: 'Y': unrecognized character escape sequence
+  CoinCalculator.vcxproj -> D:\My journey of C++\Chapter 2\Exercise\CoinCalculator\Debug\CoinCalculator.exe
