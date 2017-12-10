@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UpperCase Alphabets Table", "UpperCase Alphabets Table\UpperCase Alphabets Table.vcxproj", "{327DA5D9-18DD-4048-B150-BD42389198D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Debug|x64.ActiveCfg = Debug|x64
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Debug|x64.Build.0 = Debug|x64
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Debug|x86.ActiveCfg = Debug|Win32
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Debug|x86.Build.0 = Debug|Win32
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Release|x64.ActiveCfg = Release|x64
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Release|x64.Build.0 = Release|x64
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Release|x86.ActiveCfg = Release|Win32
+		{327DA5D9-18DD-4048-B150-BD42389198D5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ED4A41C-0B8F-41A7-9B84-2E9C20420838}
+	EndGlobalSection
+EndGlobal
