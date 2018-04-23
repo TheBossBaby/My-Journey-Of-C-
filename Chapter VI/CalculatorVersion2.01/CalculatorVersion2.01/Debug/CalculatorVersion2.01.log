@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\calculatorversion2.01\calculatorversion2.01\source.cpp(78): warning C4715: 'get_value': not all control paths return a value
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\calculatorversion2.01\calculatorversion2.01\source.cpp(222): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\calculatorversion2.01\calculatorversion2.01\source.cpp(281): warning C4715: 'primary': not all control paths return a value
+  CalculatorVersion2.01.vcxproj -> C:\Users\Pranav Kushwaha\Documents\GitHub\My-Journey-Of-C-pp\Chapter VI\CalculatorVersion2.01\Debug\CalculatorVersion2.01.exe

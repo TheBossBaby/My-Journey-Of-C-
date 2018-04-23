@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(152): warning C4018: '<=': signed/unsigned mismatch
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(165): warning C4018: '<': signed/unsigned mismatch
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(145): warning C4715: 'get_value': not all control paths return a value
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(105): warning C4715: 'Token_stream::get': not all control paths return a value
+c:\users\pranav kushwaha\documents\github\my-journey-of-c-pp\chapter vi\drill\caculator08buggy\caculator08buggy\source.cpp(201): warning C4715: 'primary': not all control paths return a value
+  Caculator08Buggy.vcxproj -> C:\Users\Pranav Kushwaha\Documents\GitHub\My-Journey-Of-C-pp\Chapter VI\Drill\Caculator08Buggy\Debug\Caculator08Buggy.exe
